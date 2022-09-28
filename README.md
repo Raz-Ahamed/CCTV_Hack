@@ -1,9 +1,5 @@
-# CCTV_Hack
-CCTV_Hack for tool
-#apt update -y 
-#apt upgrade -y
-#apt install git python -y 
-#git clone 
-#cd CCTV_Hack
-#python cctv_hack.py
+#CCTV_Hack
 
+This Tool basically using Cctv hacking
+and testing.This tool only use window, mac
+,linux and Anroid.Enjoy this tool.
