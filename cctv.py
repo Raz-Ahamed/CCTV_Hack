@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+import os
+print('Chack Update')
+os.system('git pull')
+os.system('clear')
 # Regular Colors
 black="\033[0;30m"        # Black
 red="\033[0;31m"          # Red
@@ -24,11 +27,6 @@ print(red+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 print(blue+'Youtube Chanel: Real  tips and Trikes 660')
 print(blue+'Telegarm Grop : https://t.me/realtips6600')
 print(red+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-
-import os
-print()
-os.system('git pull')
-print()
 print(green+'1) United States            47)Singapore')
 print('2) Japan                    48) Iceland')
 print('3) Italy                    49) Malaysia')
