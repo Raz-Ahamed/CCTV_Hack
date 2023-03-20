@@ -21,8 +21,8 @@ print(' |   ®®®     ®®®    ')
 print('\n')
 print(green+'%37s' % '   |Devoloped By : Raz Ahamed|')
 print(red+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-print(blue+'Youtube Chanel: Real tips and Trikes 660')
-print(blue+'Telegarm Grop : https://t.me/realtips660')
+print(blue+'Youtube Chanel: Real  tips and Trikes 660')
+print(blue+'Telegarm Grop : https://t.me/realtips6600')
 print(red+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
 
