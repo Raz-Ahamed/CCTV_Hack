@@ -26,7 +26,9 @@ print(blue+'Telegarm Grop : https://t.me/realtips6600')
 print(red+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
 import os
+print()
 os.system('git pull')
+print()
 print(green+'1) United States            47)Singapore')
 print('2) Japan                    48) Iceland')
 print('3) Italy                    49) Malaysia')
